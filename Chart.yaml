@@ -1,0 +1,8 @@
+apiVersion: v2
+name: hello-world
+type: application
+version: 0.1.0
+dependencies:
+  - name: hello-world
+    version: 0.1.0
+    repository: https://helm.github.io/examples
